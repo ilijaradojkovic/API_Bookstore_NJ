@@ -7,7 +7,7 @@ import java.util.GregorianCalendar;
 import java.util.UUID;
 
 public class Order {
-    private UUID orderId;
+
     private Din price;
     private GregorianCalendar purchaseTime;
     private Count count;

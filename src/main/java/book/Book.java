@@ -11,7 +11,7 @@ import java.util.Set;
 import java.util.UUID;
 
 public class Book  extends Entity {
-    private UUID id;
+
     private Name name;
     private Din price;
     private Pages numberOfPages;

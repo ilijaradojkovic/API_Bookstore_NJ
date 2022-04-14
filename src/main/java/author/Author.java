@@ -6,6 +6,6 @@ import common.Entity;
 import java.util.UUID;
 
 public class Author  extends Entity {
-    private UUID authorId;
+
     private Name name;
 }
